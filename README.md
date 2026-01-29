@@ -25,6 +25,15 @@
 <a href="mailto:riza.zulfiqar34@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=qyRpAggnV0zH&format=png&color=000000" alt="Gmail" height="45" width="40" /></a>
 </p>
 
+---
+
+## 🎓 Google Skills Badges
+
+### Generative AI Explorer – Vertex AI
+[![Generative AI Explorer – Vertex AI](https://cdn.qwiklabs.com/MfF1utPVX4BB5faPIS2yfQlrcnCwMMvlXBqlLNvr4tA%3D)](https://www.skills.google/public_profiles/276fe062-6678-49f6-94c7-9813ac61e724/badges/13967221)
+
+---
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
