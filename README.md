@@ -29,9 +29,17 @@
 
 ## 🎓 Google Skills Badges
 
-### Generative AI Explorer – Vertex AI
-[![Generative AI Explorer – Vertex AI](https://cdn.qwiklabs.com/MfF1utPVX4BB5faPIS2yfQlrcnCwMMvlXBqlLNvr4tA%3D)](https://www.skills.google/public_profiles/276fe062-6678-49f6-94c7-9813ac61e724/badges/13967221)
-
+<p align="left">
+  <a href="https://www.skills.google/public_profiles/276fe062-6678-49f6-94c7-9813ac61e724/badges/13967221">
+    <img src="https://cdn.qwiklabs.com/MfF1utPVX4BB5faPIS2yfQlrcnCwMMvlXBqlLNvr4tA%3D" width="100"/>
+  </a>
+  <a href="https://www.skills.google/public_profiles/276fe062-6678-49f6-94c7-9813ac61e724/badges/21748949">
+    <img src="https://cdn.qwiklabs.com/UNSp7BzB%2BTAoXGZRY2uYHriEpqQqf9Olou0DWV2bJFA%3D" width="100"/>
+  </a>
+  <a href="https://www.skills.google/public_profiles/276fe062-6678-49f6-94c7-9813ac61e724/badges/21765529">
+    <img src="https://cdn.qwiklabs.com/V54pDUwlsPSQujYw%2F%2FFYFuUcGDXGU5V%2F9tiqkgH6W1U%3D" width="100"/>
+  </a>
+</p>
 ---
 
 <h3 align="left">Languages and Tools:</h3>
