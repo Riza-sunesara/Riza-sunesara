@@ -25,22 +25,25 @@
 <a href="mailto:riza.zulfiqar34@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=qyRpAggnV0zH&format=png&color=000000" alt="Gmail" height="45" width="40" /></a>
 </p>
 
----
-
-## 🎓 Google Skills Badges
+<h3 align="left">🎓 Google Skills Badges:</h3>
 
 <p align="left">
-  <a href="https://www.skills.google/public_profiles/276fe062-6678-49f6-94c7-9813ac61e724/badges/13967221">
-    <img src="https://cdn.qwiklabs.com/MfF1utPVX4BB5faPIS2yfQlrcnCwMMvlXBqlLNvr4tA%3D" width="100"/>
+  <a href="https://www.skills.google/public_profiles/276fe062-6678-49f6-94c7-9813ac61e724/badges/21805405">
+    <img src="https://cdn.qwiklabs.com/VwfjyFHxUd%2F7yC1fYUk1o1vkkRexf7LrnAgadaTawOk%3D" width="100"/>
   </a>
-  <a href="https://www.skills.google/public_profiles/276fe062-6678-49f6-94c7-9813ac61e724/badges/21748949">
-    <img src="https://cdn.qwiklabs.com/UNSp7BzB%2BTAoXGZRY2uYHriEpqQqf9Olou0DWV2bJFA%3D" width="100"/>
+  <a href="https://www.skills.google/public_profiles/276fe062-6678-49f6-94c7-9813ac61e724/badges/21801598">
+    <img src="https://cdn.qwiklabs.com/JBCl4561ulgkADeGTbBexFxc5ZgfynIfiTZvVip1hhQ%3D" width="100"/>
   </a>
   <a href="https://www.skills.google/public_profiles/276fe062-6678-49f6-94c7-9813ac61e724/badges/21765529">
     <img src="https://cdn.qwiklabs.com/V54pDUwlsPSQujYw%2F%2FFYFuUcGDXGU5V%2F9tiqkgH6W1U%3D" width="100"/>
   </a>
+  <a href="https://www.skills.google/public_profiles/276fe062-6678-49f6-94c7-9813ac61e724/badges/21748949">
+    <img src="https://cdn.qwiklabs.com/UNSp7BzB%2BTAoXGZRY2uYHriEpqQqf9Olou0DWV2bJFA%3D" width="100"/>
+  </a>
+  <a href="https://www.skills.google/public_profiles/276fe062-6678-49f6-94c7-9813ac61e724/badges/13967221">
+    <img src="https://cdn.qwiklabs.com/MfF1utPVX4BB5faPIS2yfQlrcnCwMMvlXBqlLNvr4tA%3D" width="100"/>
+  </a>
 </p>
----
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
