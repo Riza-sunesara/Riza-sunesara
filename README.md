@@ -59,6 +59,5 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Riza-sunesara&show_icons=true&locale=en&layout=compact" alt="Riza-sunesara" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Riza-sunesara&" alt="rizasunesara" /></p>
+<h3 align="left">📊 GitHub Stats:</h3>
+![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=Riza-sunesara)
