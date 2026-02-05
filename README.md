@@ -60,4 +60,4 @@
 </p>
 
 <h3 align="left">📊 GitHub Stats:</h3>
-<p><img align="center" src="[https://github-readme-streak-stats.herokuapp.com/?user=Riza-sunesara&](https://github-readme-streak-stats-eight.vercel.app/?user=Riza-sunesara)" alt="rizasunesara" /></p>
+<p><img align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=Riza-sunesara" alt="rizasunesara" /></p>
