@@ -1,7 +1,13 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://canva.link/bhrrh64q6h23l9n" 
-       alt="Riza Sunesara Banner" width="100%" />
+  <div style="position: relative; width: 100%; height: 0; padding-top: 36.2118%;
+   padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
+   border-radius: 8px; will-change: transform;">
+    <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
+      src="https://www.canva.com/design/DAGxcDyeJhc/mifXdJzTIIoU_ttv1HVjHw/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+    </iframe>
+  </div>
+  <a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGxcDyeJhc&#x2F;mifXdJzTIIoU_ttv1HVjHw&#x2F;view?utm_content=DAGxcDyeJhc&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Github Banner</a> by Riza Sunesara
 </p>
 
 <h1 align="center">Hi 👋, I'm Riza Sunesara</h1>
