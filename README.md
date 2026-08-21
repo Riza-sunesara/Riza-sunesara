@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://www.canva.com/design/DAGxcDyeJhc/mifXdJzTIIoU_ttv1HVjHw/view" alt="Github Banner Image"/>
+  <img src="https://drive.google.com/file/d/1VLOgOWWju4g_fr545anJv_L4zf9iD0sn/view?usp=drive_link" alt="Github Banner Image"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Riza Sunesara</h1>
