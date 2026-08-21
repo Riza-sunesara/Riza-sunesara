@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://canva.link/f1hdx3hxh285uko" 
+  <img src="https://canva.link/bhrrh64q6h23l9n" 
        alt="Riza Sunesara Banner" width="100%" />
 </p>
 
